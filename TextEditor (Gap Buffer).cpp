@@ -7,7 +7,6 @@ using namespace std;
 
 class Editor {
 public:
-    // Реализуйте конструктор по умолчанию и объявленные методы
     Editor() :  
         gap_left(0), 
         gap_right(SIZE), 
